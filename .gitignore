@@ -1,0 +1,5 @@
+node_modules
+
+// mac system files to ignore
+.DS_Store
+~$*
